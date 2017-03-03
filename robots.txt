@@ -1,0 +1,8 @@
+User-agent: Yandex
+Allow: /
+
+Host: nihongo.pro
+Sitemap: http://nihongo.pro/sitemap.xml
+
+User-agent: *
+Allow: /
